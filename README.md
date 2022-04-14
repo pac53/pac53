@@ -1,4 +1,4 @@
-# Big Nix fan
+- Big Nix fan
 - Learning Haskell 
 - Vim Enjoyer
 
